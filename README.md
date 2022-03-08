@@ -1,2 +1,2 @@
 # Spring-IOC
-this project help you to learn the ioc 
+this project help you to learn the IOC
